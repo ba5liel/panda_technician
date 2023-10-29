@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "4__iPhone_SE__iPod_touch_5th_generation_and_later_portrait.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "4__iPhone_SE__iPod_touch_5th_generation_and_later_portrait.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "4__iPhone_SE__iPod_touch_5th_generation_and_later_portrait.png",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
